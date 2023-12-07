@@ -124,5 +124,8 @@ recommend to this list, which was originally part of its own repository.
 
 **Other Media**
 
-- [Pantheon -TV Show](https://www.imdb.com/title/tt11680642/?ref_=fn_al_tt_1)
+- [Pantheon](https://www.imdb.com/title/tt11680642/?ref_=fn_al_tt_1)
 - [The Blade Runner Series](https://www.imdb.com/find/?s=all&q=blade%20runner)
+- [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [Halt And Catch Fire](https://www.imdb.com/title/tt2543312/)
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/)
