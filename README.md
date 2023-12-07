@@ -22,6 +22,7 @@ recommend to this list, which was originally part of its own repository.
 - [CodeCademy](https://www.codecademy.com/)
 - [DataCamp (Data Science)](https://www.datacamp.com/)
 - [Boot.dev (Backend Development)](https://www.boot.dev/)
+- [SQL Zoo - Massive Amount of SQL Knowledge](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 **YouTubers**
 
