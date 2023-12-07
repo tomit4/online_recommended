@@ -24,6 +24,19 @@ recommend to this list, which was originally part of its own repository.
 - [Boot.dev (Backend Development)](https://www.boot.dev/)
 - [SQL Zoo - Massive Amount of SQL Knowledge](https://sqlzoo.net/wiki/SQL_Tutorial)
 
+**Data Structures And Algorithms**
+
+- [CodeWars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+**Where to Get My Questions Answered**
+
+- [StackOverflow - Don't Post Unless You Searched First](https://stackoverflow.com/)
+- [Reddit's Learn Programming Subreddit](https://www.reddit.com/r/learnprogramming/)
+- [ChatGPT - Consult the AI Gods](https://chat.openai.com/chat)
+- [The Arch Wiki - Even If You Don't Use Arch Linux, amazing resource on Linux](https://wiki.archlinux.org/)
+
 **YouTubers**
 
 - [Free Code Camp](https://www.youtube.com/@freecodecamp)
@@ -49,7 +62,7 @@ recommend to this list, which was originally part of its own repository.
 - [ThePrimeAgen - Vim NonApologist](https://www.youtube.com/@ThePrimeTimeagen)
 - [Theo -t3.gg - Opinionated Front End Genius](https://www.youtube.com/@t3dotgg)
 - [Don The Developer - Coding Bootcamp Reviews and Interviews](https://www.youtube.com/@DonTheDeveloper)
-- [Brodie Robertson - Youtube's Most Popular Linux User](https://www.youtube.com/@BrodieRobertson)
+- [Brodie Robertson - Youtube's Most Popular Linux Enthusiast](https://www.youtube.com/@BrodieRobertson)
 
 **Podcasts**
 
